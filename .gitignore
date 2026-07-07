@@ -1,0 +1,17 @@
+# Compiled C files
+*.o
+*.out
+*.exe
+a.out
+
+# Compiled programs in this repo
+variables
+FirstProgram
+firstProgram
+main
+program
+
+# Temporary files
+tempCodeRunner*
+.vscode/
+build/
