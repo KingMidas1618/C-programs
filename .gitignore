@@ -5,13 +5,8 @@
 a.out
 
 # Compiled programs in this repo
-variables
-FirstProgram
-firstProgram
-main
-program
+compiled/
 
 # Temporary files
 tempCodeRunner*
 .vscode/
-build/
