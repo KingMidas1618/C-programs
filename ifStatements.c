@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdbool.h>
 
 int main(){
 
@@ -9,13 +8,13 @@ int main(){
     scanf("%d", &number);
 
     if(number == 50){
-        printf("\nYour number is fifty");
+        printf("\nYour number is fifty\n");
     }
     else if(number < 50){
-        printf("\nYour number is less than fifty");
+        printf("\nYour number is less than fifty\n");
     }
     else{
-        printf("\nYour number is bigger than fifty");
+        printf("\nYour number is bigger than fifty\n");
     }
 
     return 0;
