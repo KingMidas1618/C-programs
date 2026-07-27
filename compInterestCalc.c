@@ -11,7 +11,7 @@ int main(){
 
     printf("Welcome to the Compound Interest Calculator\n");
     
-    printf("Please enter the initial value (P): ");
+    printf("Please enter the initial value (P): $ ");
     scanf("%lf", &initialAmount);
 
     printf("\nNow, enter the absolute annual interest rate (r): ");
