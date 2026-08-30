@@ -133,3 +133,30 @@ Most programs can be compiled with GCC using:
 ```bash
 gcc program.c -o program
 ./program
+```
+
+For programs that use functions from the C math library, such as `mathFunctions.c`, link the math library with:
+
+```bash
+gcc mathFunctions.c -o mathFunctions -lm
+./mathFunctions
+```
+
+## Tools
+
+- C
+- GCC
+- Git
+- GitHub
+- Visual Studio Code
+- Linux
+
+## Purpose of This Repository
+
+This repository is both a **learning log** and a **small programming portfolio**. I keep earlier exercises alongside newer programs so that the progression of my C knowledge can be seen over time.
+
+The programs are educational projects rather than production software. As I learn more advanced C concepts, I plan to continue improving the structure, validation, readability, and complexity of the projects in this repository.
+
+## Status
+
+**Work in progress.** The repository will continue to be updated as I progress through the remaining Bro Code C lessons and build more programs.
